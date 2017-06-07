@@ -1,9 +1,9 @@
 # aliyunmailer
 laravel framework mailer plugin which based on  AliyunMail
 # pre-condition
+completed setting from user domain dns manage(like MX record),and,completed creating from user account(like service@xx.com) under Aliyun Controller Panel
 
-
-#How to install and configurate package
+# How to install and configurate package
 
 1. install the laravel package 
   composer require "jacksunny/aliyunmailer":"dev-master"
