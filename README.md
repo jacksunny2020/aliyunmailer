@@ -1,7 +1,9 @@
 # aliyunmailer
 laravel framework mailer plugin which based on  AliyunMail
+# pre-condition
 
-How to install and configurate package
+
+#How to install and configurate package
 
 1. install the laravel package 
   composer require "jacksunny/aliyunmailer":"dev-master"
